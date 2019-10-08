@@ -8,3 +8,10 @@ mynova --help
 mydesignate --help
 tempest --help
 ```
+
+The following environment variables are used for authentication:
+* OS_AUTH_URL
+* OS_USERNAME
+* OS_PASSWORD
+* OS_TENANT_NAME
+* OS_PROJECT_NAME
