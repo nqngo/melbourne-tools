@@ -1,4 +1,6 @@
-In a new virtual environment, run: `pip install -e .` at the repo root folders.
+In a new virtual environment, run: `pip install -e .` at the repo root folder or
+`pip install -e git+https://github.com/nqngo/melbourne-tools.git#egg=melbourne-tools`
+to install directly from GitHub.
 
 All scripts will be added to `PATH` in this virtualenv
 
