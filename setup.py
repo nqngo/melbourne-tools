@@ -20,7 +20,7 @@ setup(
         'python-swiftclient>=3.7.0',
         'nectarallocationclient>=0.7.0',
         'click>=7.0',
-        'prettytable>=0.7.0',
+        'prettytable<0.8,>=0.7.1,
         'ipaddress>=1.0.0',
         'configparser>=3.7.4',
         'requests>=2.21.0',
